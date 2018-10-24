@@ -6,7 +6,7 @@ class Roman2Decimal {
 	Scanner sc=new Scanner(System.in);
 	String rom=sc.next();
 	
-	String temp=0;
+	int temp=0;
 	
 	for(int d=0;d<rom.length();d++){
 		
