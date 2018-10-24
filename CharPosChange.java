@@ -15,8 +15,8 @@ class CharPosChange{
 			arr[len-1]=st1.charAt(len-1);
 			
 		}
-		
-		System.out.println(arr);
+		String temp=String.valueOf(arr);
+		System.out.println(temp);
 		
 	}
 	
