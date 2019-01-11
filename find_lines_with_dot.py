@@ -1,5 +1,5 @@
 # count lines
 x=input()
 arr=x.split('.')
-dots=(len(arr)-1)
+dots=(len(arr))
 print(dots)
