@@ -1,5 +1,5 @@
 # find max among ten nos
-a=[int(i) for i ininput().split()]
+a=[int(i) for i in input().split()]
 maxx=max(a)
 
 print(maxx)
