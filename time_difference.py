@@ -9,6 +9,7 @@ if T1>T2:
 	T=T1-T2
 else:
 	T=T2-T1
+hours=0
 mins=T
 if mins<60:
 		print(hours, mins)
